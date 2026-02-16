@@ -1,8 +1,7 @@
 package school;
 import java.util.Scanner;
-public class student {
-    String fullname;
-    String gender;
+public class student extends person{
+    
     int idno;
     double balance;
 
